@@ -1,0 +1,3 @@
+include ':viewbyid'
+include ':app'
+rootProject.name = "AndroidFirstProject"
