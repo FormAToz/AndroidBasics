@@ -1,3 +1,4 @@
-include ':viewbyid'
+include ':app_onclickbutton'
+include ':app_viewbyid'
 include ':app'
 rootProject.name = "AndroidFirstProject"
