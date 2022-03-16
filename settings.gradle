@@ -1,3 +1,4 @@
+include ':app_menu_simple'
 include ':app_onclickbutton'
 include ':app_viewbyid'
 include ':app'
